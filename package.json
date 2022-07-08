@@ -1,6 +1,6 @@
 {
   "name": "expenit",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "express inition for u <3",
   "main": "./bin/index.js",
   "scripts": {
