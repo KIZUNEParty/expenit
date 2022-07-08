@@ -1,6 +1,6 @@
 {
   "name": "expenit",
-  "version": "1.0.01",
+  "version": "1.0.11",
   "description": "express inition for u <3",
   "main": "./bin/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dethMastery/expenit.git"
+    "url": "git+https://github.com/KIZUNEParty/expenit.git"
   },
   "keywords": [
     "expressjs"
@@ -19,9 +19,9 @@
   "author": "detzz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dethMastery/expenit/issues"
+    "url": "https://github.com/KIZUNEParty/expenit/issues"
   },
-  "homepage": "https://github.com/dethMastery/expenit#readme",
+  "homepage": "https://github.com/KIZUNEParty/expenit#readme",
   "dependencies": {
     "child_process": "^1.0.2",
     "fs": "^0.0.1-security",
